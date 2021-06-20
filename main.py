@@ -19,7 +19,8 @@
 #  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 #  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #  SOFTWARE.
-
+""" A program the check given passwords again those that have been found leaked, and those likely to be leaked.
+If either are true, a suggested password is given in return. """
 __name__ = 'Password Check v.2'
 __author__ = 'Virgil Hoover'
 __version__ = '2.0.1'
