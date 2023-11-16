@@ -9,5 +9,5 @@ PyRect==0.1.4
 PyScreeze==0.1.27
 python3-xlib==0.15
 PyTweening==1.0.3
-selenium==3.141.0
+selenium==4.15.1
 urllib3==1.26.18
